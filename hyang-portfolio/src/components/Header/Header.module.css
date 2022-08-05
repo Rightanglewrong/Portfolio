@@ -1,0 +1,30 @@
+.navbar {
+    background-color: lightblue;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgb(42, 42, 124);
+    font-size: 20px;
+    max-height: 10vh;
+}
+
+.navbar {
+    text-shadow: 2px 1px grey;
+
+}
+
+.navitems span{
+    position: relative;
+    display: inline-block;
+    line-height: 10vh;
+    font-size: 20px;
+    padding: 0px 5px;
+    color: black;
+    text-shadow: 2px 1px grey;
+}
+
+.navitems span:hover{
+    font-size: 23px;
+    color: rgb(178, 16, 16);
+}

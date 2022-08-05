@@ -1,0 +1,14 @@
+.content {
+    margin: 8% auto;
+    width: 40vw;
+    height: 40vh;
+    font-size: 30px;
+    text-align: center;
+}
+
+.list {
+    text-align: left;
+    border: 10px solid black;
+    font-size: 20px;
+
+}
